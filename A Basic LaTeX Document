@@ -1,0 +1,14 @@
+\documentclass[11pt]{article}
+
+\title{A Basic Document}
+\author{anonymous}
+
+\begin{document}
+\maketitle
+
+\section{Part One}
+Whatever you want to say
+\section{Part Two}
+Something else that you want to say
+
+\end{document}
