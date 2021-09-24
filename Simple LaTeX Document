@@ -1,0 +1,18 @@
+\documentclass[11pt]{article}
+
+\title{Simple Document}
+\author{Sasha Godec}
+
+\begin{document}
+\maketitle
+
+\section{Part 1}
+Whatever you want to say.
+
+\section{Part 2}
+Whatever else that you want to say.
+
+\section{Part 3}
+Final thoughts.
+
+\end{document}
